@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>취약점 on Pol4bear&#39;s blog</title>
+    <link>/tags/%EC%B7%A8%EC%95%BD%EC%A0%90/</link>
+    <description>Recent content in 취약점 on Pol4bear&#39;s blog</description>
+    <image>
+      <title>Pol4bear&#39;s blog</title>
+      <url>/cover.jpg</url>
+      <link>/cover.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 04 Mar 2020 21:00:22 +0900</lastBuildDate><atom:link href="/tags/%EC%B7%A8%EC%95%BD%EC%A0%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SNI 기반 유해사이트 차단 장비를 우회하는 방법</title>
+      <link>/posts/how-to-bypass-sni-blocking-equipment/</link>
+      <pubDate>Wed, 04 Mar 2020 21:00:22 +0900</pubDate>
+      
+      <guid>/posts/how-to-bypass-sni-blocking-equipment/</guid>
+      <description>SNI 기반 유해사이트 차단 장비 우회 취약점에 대해서 알아보자</description>
+    </item>
+    
+    <item>
+      <title>ESNI 무력화 취약점 버그 바운티 후기</title>
+      <link>/posts/esni-vulnerability-bug-bounty/</link>
+      <pubDate>Mon, 10 Feb 2020 14:03:00 +0900</pubDate>
+      
+      <guid>/posts/esni-vulnerability-bug-bounty/</guid>
+      <description>HackerOne ESNI 무력화 취약점 버그 바운티 후기</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>레지스트리 on Pol4bear&#39;s blog</title>
+    <link>/tags/%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC/</link>
+    <description>Recent content in 레지스트리 on Pol4bear&#39;s blog</description>
+    <image>
+      <title>Pol4bear&#39;s blog</title>
+      <url>/cover.jpg</url>
+      <link>/cover.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sun, 02 Oct 2016 14:30:00 +0900</lastBuildDate><atom:link href="/tags/%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>윈도우 우클릭 메뉴에 아이템 추가하기</title>
+      <link>/posts/how-to-edit-windows-context-menu/</link>
+      <pubDate>Sun, 02 Oct 2016 14:30:00 +0900</pubDate>
+      
+      <guid>/posts/how-to-edit-windows-context-menu/</guid>
+      <description>윈도우 우클릭 메뉴에 아이템 추가하는 방법에 대해서 알아보자</description>
+    </item>
+    
+  </channel>
+</rss>

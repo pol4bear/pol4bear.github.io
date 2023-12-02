@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ESNI on Pol4bear&#39;s blog</title>
+    <link>/tags/esni/</link>
+    <description>Recent content in ESNI on Pol4bear&#39;s blog</description>
+    <image>
+      <title>Pol4bear&#39;s blog</title>
+      <url>/cover.jpg</url>
+      <link>/cover.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Tue, 03 Mar 2020 16:11:28 +0900</lastBuildDate><atom:link href="/tags/esni/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>알아둬도 쓸데없는 신비한 ESNI</title>
+      <link>/posts/what-is-esni/</link>
+      <pubDate>Tue, 03 Mar 2020 16:11:28 +0900</pubDate>
+      
+      <guid>/posts/what-is-esni/</guid>
+      <description>ESNI에 대해 알아보자</description>
+    </item>
+    
+    <item>
+      <title>ESNI 무력화 취약점 버그 바운티 후기</title>
+      <link>/posts/esni-vulnerability-bug-bounty/</link>
+      <pubDate>Mon, 10 Feb 2020 14:03:00 +0900</pubDate>
+      
+      <guid>/posts/esni-vulnerability-bug-bounty/</guid>
+      <description>HackerOne ESNI 무력화 취약점 버그 바운티 후기</description>
+    </item>
+    
+  </channel>
+</rss>

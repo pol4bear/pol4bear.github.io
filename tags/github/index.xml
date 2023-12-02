@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GitHub on Pol4bear&#39;s blog</title>
+    <link>/tags/github/</link>
+    <description>Recent content in GitHub on Pol4bear&#39;s blog</description>
+    <image>
+      <title>Pol4bear&#39;s blog</title>
+      <url>/cover.jpg</url>
+      <link>/cover.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Thu, 11 Feb 2021 23:39:31 +0900</lastBuildDate><atom:link href="/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C/C&#43;&#43; 프로젝트에 GitHub Actions 적용하기</title>
+      <link>/posts/using-github-actions-in-c-cpp-project/</link>
+      <pubDate>Thu, 11 Feb 2021 23:39:31 +0900</pubDate>
+      
+      <guid>/posts/using-github-actions-in-c-cpp-project/</guid>
+      <description>GitHub Actions로 C/C&#43;&#43; 프로젝트에 CI/CD를 적용해보자</description>
+    </item>
+    
+  </channel>
+</rss>

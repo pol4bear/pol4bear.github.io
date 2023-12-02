@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>펌웨어 분석 on Pol4bear&#39;s blog</title>
+    <link>/tags/%ED%8E%8C%EC%9B%A8%EC%96%B4-%EB%B6%84%EC%84%9D/</link>
+    <description>Recent content in 펌웨어 분석 on Pol4bear&#39;s blog</description>
+    <image>
+      <title>Pol4bear&#39;s blog</title>
+      <url>/cover.jpg</url>
+      <link>/cover.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Mon, 20 Dec 2021 13:38:36 +0900</lastBuildDate><atom:link href="/tags/%ED%8E%8C%EC%9B%A8%EC%96%B4-%EB%B6%84%EC%84%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>펌웨어 정적분석하기</title>
+      <link>/posts/reversing-embedded-device-3/</link>
+      <pubDate>Mon, 20 Dec 2021 13:38:36 +0900</pubDate>
+      
+      <guid>/posts/reversing-embedded-device-3/</guid>
+      <description>임베디드 기기 역공학 개론</description>
+    </item>
+    
+  </channel>
+</rss>
