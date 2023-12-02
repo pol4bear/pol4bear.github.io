@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>정보보안 on Pol4bear&#39;s blog</title>
-    <link>/categories/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88/</link>
+    <link>https://pol4.dev/categories/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88/</link>
     <description>Recent content in 정보보안 on Pol4bear&#39;s blog</description>
     <image>
       <title>Pol4bear&#39;s blog</title>
-      <url>/cover.jpg</url>
-      <link>/cover.jpg</link>
+      <url>https://pol4.dev/cover.jpg</url>
+      <link>https://pol4.dev/cover.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 10 May 2023 22:24:15 +0900</lastBuildDate><atom:link href="/categories/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 22:24:15 +0900</lastBuildDate><atom:link href="https://pol4.dev/categories/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>토어 서버 사용기</title>
-      <link>/posts/tor-setup-basic/</link>
+      <link>https://pol4.dev/posts/tor-setup-basic/</link>
       <pubDate>Wed, 10 May 2023 22:24:15 +0900</pubDate>
       
-      <guid>/posts/tor-setup-basic/</guid>
+      <guid>https://pol4.dev/posts/tor-setup-basic/</guid>
       <description>내 홈페이지를 토어 네트워크에 돌려보자</description>
     </item>
     
     <item>
       <title>SNI 기반 유해사이트 차단 장비를 우회하는 방법</title>
-      <link>/posts/how-to-bypass-sni-blocking-equipment/</link>
+      <link>https://pol4.dev/posts/how-to-bypass-sni-blocking-equipment/</link>
       <pubDate>Wed, 04 Mar 2020 21:00:22 +0900</pubDate>
       
-      <guid>/posts/how-to-bypass-sni-blocking-equipment/</guid>
+      <guid>https://pol4.dev/posts/how-to-bypass-sni-blocking-equipment/</guid>
       <description>SNI 기반 유해사이트 차단 장비 우회 취약점에 대해서 알아보자</description>
     </item>
     
     <item>
       <title>알아둬도 쓸데없는 신비한 ESNI</title>
-      <link>/posts/what-is-esni/</link>
+      <link>https://pol4.dev/posts/what-is-esni/</link>
       <pubDate>Tue, 03 Mar 2020 16:11:28 +0900</pubDate>
       
-      <guid>/posts/what-is-esni/</guid>
+      <guid>https://pol4.dev/posts/what-is-esni/</guid>
       <description>ESNI에 대해 알아보자</description>
     </item>
     
     <item>
       <title>ESNI 무력화 취약점 버그 바운티 후기</title>
-      <link>/posts/esni-vulnerability-bug-bounty/</link>
+      <link>https://pol4.dev/posts/esni-vulnerability-bug-bounty/</link>
       <pubDate>Mon, 10 Feb 2020 14:03:00 +0900</pubDate>
       
-      <guid>/posts/esni-vulnerability-bug-bounty/</guid>
+      <guid>https://pol4.dev/posts/esni-vulnerability-bug-bounty/</guid>
       <description>HackerOne ESNI 무력화 취약점 버그 바운티 후기</description>
     </item>
     
     <item>
       <title>DoH(DNS over HTTPS) 서버 설치하기</title>
-      <link>/posts/how-to-setup-dns-over-https/</link>
+      <link>https://pol4.dev/posts/how-to-setup-dns-over-https/</link>
       <pubDate>Thu, 14 Nov 2019 06:40:00 +0900</pubDate>
       
-      <guid>/posts/how-to-setup-dns-over-https/</guid>
+      <guid>https://pol4.dev/posts/how-to-setup-dns-over-https/</guid>
       <description>DoH 서버를 설치해서 운용해보자</description>
     </item>
     
     <item>
       <title>MSFvenom으로 안드로이드 해킹하기&#34;</title>
-      <link>/posts/android-hacking-using-msfvenom/</link>
+      <link>https://pol4.dev/posts/android-hacking-using-msfvenom/</link>
       <pubDate>Sun, 25 Sep 2016 18:39:00 +0900</pubDate>
       
-      <guid>/posts/android-hacking-using-msfvenom/</guid>
+      <guid>https://pol4.dev/posts/android-hacking-using-msfvenom/</guid>
       <description>MSFvenom을 사용해서 안드로이드를 해킹해보자</description>
     </item>
     
     <item>
       <title>WiFi 비밀번호 크랙하기</title>
-      <link>/posts/how-to-crack-wifi-using-aircrack-ng/</link>
+      <link>https://pol4.dev/posts/how-to-crack-wifi-using-aircrack-ng/</link>
       <pubDate>Sat, 10 Sep 2016 20:46:00 +0900</pubDate>
       
-      <guid>/posts/how-to-crack-wifi-using-aircrack-ng/</guid>
+      <guid>https://pol4.dev/posts/how-to-crack-wifi-using-aircrack-ng/</guid>
       <description>Aircrack-ng를 사용해서 WiFi를 해킹하는 법</description>
     </item>
     
     <item>
       <title>OSI 보안 구조란?</title>
-      <link>/posts/what-is-osi-security-architecture/</link>
+      <link>https://pol4.dev/posts/what-is-osi-security-architecture/</link>
       <pubDate>Wed, 27 Jul 2016 05:03:00 +0900</pubDate>
       
-      <guid>/posts/what-is-osi-security-architecture/</guid>
+      <guid>https://pol4.dev/posts/what-is-osi-security-architecture/</guid>
       <description>보안 공격, 메커니즘, 서비서스의 종류에 대해 알아보자</description>
     </item>
     

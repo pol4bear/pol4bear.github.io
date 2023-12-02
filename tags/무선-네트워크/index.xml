@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>무선 네트워크 on Pol4bear&#39;s blog</title>
-    <link>/tags/%EB%AC%B4%EC%84%A0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</link>
+    <link>https://pol4.dev/tags/%EB%AC%B4%EC%84%A0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</link>
     <description>Recent content in 무선 네트워크 on Pol4bear&#39;s blog</description>
     <image>
       <title>Pol4bear&#39;s blog</title>
-      <url>/cover.jpg</url>
-      <link>/cover.jpg</link>
+      <url>https://pol4.dev/cover.jpg</url>
+      <link>https://pol4.dev/cover.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 11 Sep 2016 18:30:00 +0900</lastBuildDate><atom:link href="/tags/%EB%AC%B4%EC%84%A0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Sep 2016 18:30:00 +0900</lastBuildDate><atom:link href="https://pol4.dev/tags/%EB%AC%B4%EC%84%A0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>무선랜 표준 IEEE 802.11</title>
-      <link>/posts/wireless-standard-ieee-802-11/</link>
+      <link>https://pol4.dev/posts/wireless-standard-ieee-802-11/</link>
       <pubDate>Sun, 11 Sep 2016 18:30:00 +0900</pubDate>
       
-      <guid>/posts/wireless-standard-ieee-802-11/</guid>
+      <guid>https://pol4.dev/posts/wireless-standard-ieee-802-11/</guid>
       <description>무선랜 프로토콜 IEEE 802.11에 대해서 알아보자</description>
     </item>
     
     <item>
       <title>WiFi 비밀번호 크랙하기</title>
-      <link>/posts/how-to-crack-wifi-using-aircrack-ng/</link>
+      <link>https://pol4.dev/posts/how-to-crack-wifi-using-aircrack-ng/</link>
       <pubDate>Sat, 10 Sep 2016 20:46:00 +0900</pubDate>
       
-      <guid>/posts/how-to-crack-wifi-using-aircrack-ng/</guid>
+      <guid>https://pol4.dev/posts/how-to-crack-wifi-using-aircrack-ng/</guid>
       <description>Aircrack-ng를 사용해서 WiFi를 해킹하는 법</description>
     </item>
     

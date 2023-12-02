@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CI/CD on Pol4bear&#39;s blog</title>
-    <link>/tags/ci/cd/</link>
+    <link>https://pol4.dev/tags/ci/cd/</link>
     <description>Recent content in CI/CD on Pol4bear&#39;s blog</description>
     <image>
       <title>Pol4bear&#39;s blog</title>
-      <url>/cover.jpg</url>
-      <link>/cover.jpg</link>
+      <url>https://pol4.dev/cover.jpg</url>
+      <link>https://pol4.dev/cover.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko-KR</language><atom:link href="/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-KR</language><atom:link href="https://pol4.dev/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C/C&#43;&#43; 프로젝트에 GitHub Actions 적용하기</title>
-      <link>/posts/using-github-actions-in-c-cpp-project/</link>
+      <link>https://pol4.dev/posts/using-github-actions-in-c-cpp-project/</link>
       <pubDate>Thu, 11 Feb 2021 23:39:31 +0900</pubDate>
       
-      <guid>/posts/using-github-actions-in-c-cpp-project/</guid>
+      <guid>https://pol4.dev/posts/using-github-actions-in-c-cpp-project/</guid>
       <description>GitHub Actions로 C/C&#43;&#43; 프로젝트에 CI/CD를 적용해보자</description>
     </item>
     

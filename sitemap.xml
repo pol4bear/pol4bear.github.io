@@ -2,308 +2,308 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://pol4.dev/categories/</loc>
     <lastmod>2023-05-10T22:24:15+09:00</lastmod>
   </url><url>
-    <loc>/tags/onion-routing/</loc>
+    <loc>https://pol4.dev/tags/onion-routing/</loc>
     <lastmod>2023-05-10T22:24:15+09:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://pol4.dev/</loc>
     <lastmod>2023-05-10T22:24:15+09:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://pol4.dev/posts/</loc>
     <lastmod>2023-05-10T22:24:15+09:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://pol4.dev/tags/</loc>
     <lastmod>2023-05-10T22:24:15+09:00</lastmod>
   </url><url>
-    <loc>/tags/tor/</loc>
+    <loc>https://pol4.dev/tags/tor/</loc>
     <lastmod>2023-05-10T22:24:15+09:00</lastmod>
   </url><url>
-    <loc>/categories/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88/</loc>
+    <loc>https://pol4.dev/categories/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88/</loc>
     <lastmod>2023-05-10T22:24:15+09:00</lastmod>
   </url><url>
-    <loc>/posts/tor-setup-basic/</loc>
+    <loc>https://pol4.dev/posts/tor-setup-basic/</loc>
     <lastmod>2023-05-10T22:24:15+09:00</lastmod>
   </url><url>
-    <loc>/tags/tcpreplay/</loc>
+    <loc>https://pol4.dev/tags/tcpreplay/</loc>
     <lastmod>2022-06-25T18:52:22+09:00</lastmod>
   </url><url>
-    <loc>/categories/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</loc>
+    <loc>https://pol4.dev/categories/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</loc>
     <lastmod>2022-06-25T18:52:22+09:00</lastmod>
   </url><url>
-    <loc>/posts/how-to-test-network-program/</loc>
+    <loc>https://pol4.dev/posts/how-to-test-network-program/</loc>
     <lastmod>2022-06-25T18:52:22+09:00</lastmod>
   </url><url>
-    <loc>/tags/%ED%8C%A8%ED%82%B7-%EB%A1%9C%EC%8A%A4/</loc>
+    <loc>https://pol4.dev/tags/%ED%8C%A8%ED%82%B7-%EB%A1%9C%EC%8A%A4/</loc>
     <lastmod>2022-06-25T18:52:22+09:00</lastmod>
   </url><url>
-    <loc>/tags/arm/</loc>
+    <loc>https://pol4.dev/tags/arm/</loc>
     <lastmod>2021-12-22T18:11:20+09:00</lastmod>
   </url><url>
-    <loc>/posts/addressing-modes-of-arm-architecture/</loc>
+    <loc>https://pol4.dev/posts/addressing-modes-of-arm-architecture/</loc>
     <lastmod>2021-12-22T18:11:20+09:00</lastmod>
   </url><url>
-    <loc>/categories/%EB%A6%AC%EB%B2%84%EC%8B%B1/</loc>
+    <loc>https://pol4.dev/categories/%EB%A6%AC%EB%B2%84%EC%8B%B1/</loc>
     <lastmod>2021-12-22T18:11:20+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EC%A3%BC%EC%86%8C%EC%A7%80%EC%A0%95-%EB%B0%A9%EC%8B%9D/</loc>
+    <loc>https://pol4.dev/tags/%EC%A3%BC%EC%86%8C%EC%A7%80%EC%A0%95-%EB%B0%A9%EC%8B%9D/</loc>
     <lastmod>2021-12-22T18:11:20+09:00</lastmod>
   </url><url>
-    <loc>/tags/mips/</loc>
+    <loc>https://pol4.dev/tags/mips/</loc>
     <lastmod>2021-12-21T15:32:36+09:00</lastmod>
   </url><url>
-    <loc>/posts/addressing-modes-of-mips-architecture/</loc>
+    <loc>https://pol4.dev/posts/addressing-modes-of-mips-architecture/</loc>
     <lastmod>2021-12-21T15:32:36+09:00</lastmod>
   </url><url>
-    <loc>/categories/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C/</loc>
+    <loc>https://pol4.dev/categories/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C/</loc>
     <lastmod>2021-12-20T13:38:36+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B8%B0%EA%B8%B0-%EC%97%AD%EA%B3%B5%ED%95%99/</loc>
+    <loc>https://pol4.dev/tags/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B8%B0%EA%B8%B0-%EC%97%AD%EA%B3%B5%ED%95%99/</loc>
     <lastmod>2021-12-20T13:38:36+09:00</lastmod>
   </url><url>
-    <loc>/tags/%ED%8E%8C%EC%9B%A8%EC%96%B4-%EB%B6%84%EC%84%9D/</loc>
+    <loc>https://pol4.dev/tags/%ED%8E%8C%EC%9B%A8%EC%96%B4-%EB%B6%84%EC%84%9D/</loc>
     <lastmod>2021-12-20T13:38:36+09:00</lastmod>
   </url><url>
-    <loc>/posts/reversing-embedded-device-3/</loc>
+    <loc>https://pol4.dev/posts/reversing-embedded-device-3/</loc>
     <lastmod>2021-12-20T13:38:36+09:00</lastmod>
   </url><url>
-    <loc>/posts/reversing-embedded-device-2/</loc>
+    <loc>https://pol4.dev/posts/reversing-embedded-device-2/</loc>
     <lastmod>2021-12-19T11:12:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/reversing-embedded-device-1/</loc>
+    <loc>https://pol4.dev/posts/reversing-embedded-device-1/</loc>
     <lastmod>2021-12-19T10:05:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/tcp/</loc>
+    <loc>https://pol4.dev/tags/tcp/</loc>
     <lastmod>2021-09-14T21:43:04+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EC%8B%A4%ED%97%98%EC%8B%A4/</loc>
+    <loc>https://pol4.dev/tags/%EC%8B%A4%ED%97%98%EC%8B%A4/</loc>
     <lastmod>2021-09-14T21:43:04+09:00</lastmod>
   </url><url>
-    <loc>/categories/%EC%8B%A4%ED%97%98%EC%8B%A4/</loc>
+    <loc>https://pol4.dev/categories/%EC%8B%A4%ED%97%98%EC%8B%A4/</loc>
     <lastmod>2021-09-14T21:43:04+09:00</lastmod>
   </url><url>
-    <loc>/posts/lab-1-tcp-retransmission/</loc>
+    <loc>https://pol4.dev/posts/lab-1-tcp-retransmission/</loc>
     <lastmod>2021-09-14T21:43:04+09:00</lastmod>
   </url><url>
-    <loc>/tags/%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C/</loc>
+    <loc>https://pol4.dev/tags/%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C/</loc>
     <lastmod>2021-09-14T21:43:04+09:00</lastmod>
   </url><url>
-    <loc>/tags/pintos/</loc>
+    <loc>https://pol4.dev/tags/pintos/</loc>
     <lastmod>2021-08-22T21:03:04+09:00</lastmod>
   </url><url>
-    <loc>/posts/pintos-development-1/</loc>
+    <loc>https://pol4.dev/posts/pintos-development-1/</loc>
     <lastmod>2021-08-22T21:03:04+09:00</lastmod>
   </url><url>
-    <loc>/categories/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/</loc>
+    <loc>https://pol4.dev/categories/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/</loc>
     <lastmod>2021-08-22T21:03:04+09:00</lastmod>
   </url><url>
-    <loc>/posts/using-github-actions-in-c-cpp-project/</loc>
+    <loc>https://pol4.dev/posts/using-github-actions-in-c-cpp-project/</loc>
     <lastmod>2021-02-11T23:39:31+09:00</lastmod>
   </url><url>
-    <loc>/tags/github/</loc>
+    <loc>https://pol4.dev/tags/github/</loc>
     <lastmod>2021-02-11T23:39:31+09:00</lastmod>
   </url><url>
-    <loc>/categories/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4/</loc>
+    <loc>https://pol4.dev/categories/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4/</loc>
     <lastmod>2021-02-11T23:39:31+09:00</lastmod>
   </url><url>
-    <loc>/posts/what-is-osi-7-layer/</loc>
+    <loc>https://pol4.dev/posts/what-is-osi-7-layer/</loc>
     <lastmod>2020-07-08T15:12:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9D%B4%EB%A1%A0/</loc>
+    <loc>https://pol4.dev/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9D%B4%EB%A1%A0/</loc>
     <lastmod>2020-07-08T15:12:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/how-to-bypass-sni-blocking-equipment/</loc>
+    <loc>https://pol4.dev/posts/how-to-bypass-sni-blocking-equipment/</loc>
     <lastmod>2020-03-04T21:00:22+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B3%B4%EC%95%88/</loc>
+    <loc>https://pol4.dev/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B3%B4%EC%95%88/</loc>
     <lastmod>2020-03-04T21:00:22+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EC%9C%A0%ED%95%B4%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%B0%A8%EB%8B%A8/</loc>
+    <loc>https://pol4.dev/tags/%EC%9C%A0%ED%95%B4%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%B0%A8%EB%8B%A8/</loc>
     <lastmod>2020-03-04T21:00:22+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EC%B7%A8%EC%95%BD%EC%A0%90/</loc>
+    <loc>https://pol4.dev/tags/%EC%B7%A8%EC%95%BD%EC%A0%90/</loc>
     <lastmod>2020-03-04T21:00:22+09:00</lastmod>
   </url><url>
-    <loc>/posts/about-harmful-website-blocking-in-korea/</loc>
+    <loc>https://pol4.dev/posts/about-harmful-website-blocking-in-korea/</loc>
     <lastmod>2020-03-04T20:21:23+09:00</lastmod>
   </url><url>
-    <loc>/categories/%EC%9E%A1%EB%8B%B4/</loc>
+    <loc>https://pol4.dev/categories/%EC%9E%A1%EB%8B%B4/</loc>
     <lastmod>2020-03-04T20:21:23+09:00</lastmod>
   </url><url>
-    <loc>/tags/esni/</loc>
+    <loc>https://pol4.dev/tags/esni/</loc>
     <lastmod>2020-03-03T16:11:28+09:00</lastmod>
   </url><url>
-    <loc>/posts/what-is-esni/</loc>
+    <loc>https://pol4.dev/posts/what-is-esni/</loc>
     <lastmod>2020-03-03T16:11:28+09:00</lastmod>
   </url><url>
-    <loc>/posts/esni-vulnerability-bug-bounty/</loc>
+    <loc>https://pol4.dev/posts/esni-vulnerability-bug-bounty/</loc>
     <lastmod>2020-02-10T14:03:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/hackerone/</loc>
+    <loc>https://pol4.dev/tags/hackerone/</loc>
     <lastmod>2020-02-10T14:03:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EB%B2%84%EA%B7%B8-%EB%B0%94%EC%9A%B4%ED%8B%B0/</loc>
+    <loc>https://pol4.dev/tags/%EB%B2%84%EA%B7%B8-%EB%B0%94%EC%9A%B4%ED%8B%B0/</loc>
     <lastmod>2020-02-10T14:03:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/doh/</loc>
+    <loc>https://pol4.dev/tags/doh/</loc>
     <lastmod>2019-11-14T06:40:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/how-to-setup-dns-over-https/</loc>
+    <loc>https://pol4.dev/posts/how-to-setup-dns-over-https/</loc>
     <lastmod>2019-11-14T06:40:00+09:00</lastmod>
   </url><url>
-    <loc>/categories/%EB%A6%AC%EB%88%85%EC%8A%A4/</loc>
+    <loc>https://pol4.dev/categories/%EB%A6%AC%EB%88%85%EC%8A%A4/</loc>
     <lastmod>2019-11-14T06:40:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/linux-kernel-compile-and-install/</loc>
+    <loc>https://pol4.dev/posts/linux-kernel-compile-and-install/</loc>
     <lastmod>2019-07-20T18:05:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%84%90/</loc>
+    <loc>https://pol4.dev/tags/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%84%90/</loc>
     <lastmod>2019-07-20T18:05:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/x64-assembly/</loc>
+    <loc>https://pol4.dev/posts/x64-assembly/</loc>
     <lastmod>2019-07-13T09:37:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EC%96%B4%EC%85%88%EB%B8%94%EB%9F%AC/</loc>
+    <loc>https://pol4.dev/tags/%EC%96%B4%EC%85%88%EB%B8%94%EB%9F%AC/</loc>
     <lastmod>2019-07-13T09:37:00+09:00</lastmod>
   </url><url>
-    <loc>/categories/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC/</loc>
+    <loc>https://pol4.dev/categories/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC/</loc>
     <lastmod>2019-07-13T09:37:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/</loc>
+    <loc>https://pol4.dev/tags/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/</loc>
     <lastmod>2019-07-13T09:37:00+09:00</lastmod>
   </url><url>
-    <loc>/categories/%EC%8B%9C%EC%8A%A4%ED%85%9C/</loc>
+    <loc>https://pol4.dev/categories/%EC%8B%9C%EC%8A%A4%ED%85%9C/</loc>
     <lastmod>2019-07-13T07:50:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0/</loc>
+    <loc>https://pol4.dev/tags/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0/</loc>
     <lastmod>2019-07-13T07:50:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/computer-architecture/</loc>
+    <loc>https://pol4.dev/posts/computer-architecture/</loc>
     <lastmod>2019-07-13T07:50:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/what-is-instruction-set-architecture/</loc>
+    <loc>https://pol4.dev/posts/what-is-instruction-set-architecture/</loc>
     <lastmod>2019-07-12T07:52:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C/</loc>
+    <loc>https://pol4.dev/tags/%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C/</loc>
     <lastmod>2019-07-12T07:52:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/make/</loc>
+    <loc>https://pol4.dev/tags/make/</loc>
     <lastmod>2019-07-12T00:15:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/how-to-use-make/</loc>
+    <loc>https://pol4.dev/posts/how-to-use-make/</loc>
     <lastmod>2019-07-12T00:15:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/git/</loc>
+    <loc>https://pol4.dev/tags/git/</loc>
     <lastmod>2019-07-11T18:33:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/how-to-use-git/</loc>
+    <loc>https://pol4.dev/posts/how-to-use-git/</loc>
     <lastmod>2019-07-11T18:33:00+09:00</lastmod>
   </url><url>
-    <loc>/categories/c/</loc>
+    <loc>https://pol4.dev/categories/c/</loc>
     <lastmod>2017-02-01T23:54:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/des-implementation-in-c/</loc>
+    <loc>https://pol4.dev/posts/des-implementation-in-c/</loc>
     <lastmod>2017-02-01T23:54:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EB%8C%80%EC%B9%AD%ED%82%A4-%EC%95%94%ED%98%B8/</loc>
+    <loc>https://pol4.dev/tags/%EB%8C%80%EC%B9%AD%ED%82%A4-%EC%95%94%ED%98%B8/</loc>
     <lastmod>2017-02-01T23:54:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EB%B8%94%EB%A1%9D-%EC%95%94%ED%98%B8/</loc>
+    <loc>https://pol4.dev/tags/%EB%B8%94%EB%A1%9D-%EC%95%94%ED%98%B8/</loc>
     <lastmod>2017-02-01T23:54:00+09:00</lastmod>
   </url><url>
-    <loc>/categories/%EC%95%94%ED%98%B8%ED%95%99/</loc>
+    <loc>https://pol4.dev/categories/%EC%95%94%ED%98%B8%ED%95%99/</loc>
     <lastmod>2017-02-01T23:54:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC/</loc>
+    <loc>https://pol4.dev/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC/</loc>
     <lastmod>2016-11-16T10:47:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/negative-numbers-in-computer/</loc>
+    <loc>https://pol4.dev/posts/negative-numbers-in-computer/</loc>
     <lastmod>2016-11-16T10:47:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/diffie-hellman/</loc>
+    <loc>https://pol4.dev/posts/diffie-hellman/</loc>
     <lastmod>2016-11-08T12:21:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%ED%82%A4-%EA%B5%90%ED%99%98/</loc>
+    <loc>https://pol4.dev/tags/%ED%82%A4-%EA%B5%90%ED%99%98/</loc>
     <lastmod>2016-11-08T12:21:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/rivest-shamir-adleman/</loc>
+    <loc>https://pol4.dev/posts/rivest-shamir-adleman/</loc>
     <lastmod>2016-11-08T11:06:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EA%B3%B5%EA%B0%9C%ED%82%A4-%EC%95%94%ED%98%B8/</loc>
+    <loc>https://pol4.dev/tags/%EA%B3%B5%EA%B0%9C%ED%82%A4-%EC%95%94%ED%98%B8/</loc>
     <lastmod>2016-11-08T11:06:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/advanced-encryption-standard/</loc>
+    <loc>https://pol4.dev/posts/advanced-encryption-standard/</loc>
     <lastmod>2016-11-06T23:26:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/data-encryption-standard/</loc>
+    <loc>https://pol4.dev/posts/data-encryption-standard/</loc>
     <lastmod>2016-11-01T17:11:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/block-cipher-mode-xts-aes/</loc>
+    <loc>https://pol4.dev/posts/block-cipher-mode-xts-aes/</loc>
     <lastmod>2016-10-17T03:02:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EC%95%94%ED%98%B8-%EC%9A%B4%EC%9A%A9-%EB%AA%A8%EB%93%9C/</loc>
+    <loc>https://pol4.dev/tags/%EC%95%94%ED%98%B8-%EC%9A%B4%EC%9A%A9-%EB%AA%A8%EB%93%9C/</loc>
     <lastmod>2016-10-17T03:02:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/modes-of-block-cipher/</loc>
+    <loc>https://pol4.dev/posts/modes-of-block-cipher/</loc>
     <lastmod>2016-10-17T02:29:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/attacks-on-cryptography/</loc>
+    <loc>https://pol4.dev/posts/attacks-on-cryptography/</loc>
     <lastmod>2016-10-17T01:51:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%ED%95%B4%ED%82%B9/</loc>
+    <loc>https://pol4.dev/tags/%ED%95%B4%ED%82%B9/</loc>
     <lastmod>2016-10-17T01:51:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/what-is-cryptography/</loc>
+    <loc>https://pol4.dev/posts/what-is-cryptography/</loc>
     <lastmod>2016-10-11T12:24:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C/</loc>
+    <loc>https://pol4.dev/tags/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C/</loc>
     <lastmod>2016-10-09T16:37:00+09:00</lastmod>
   </url><url>
-    <loc>/categories/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C/</loc>
+    <loc>https://pol4.dev/categories/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C/</loc>
     <lastmod>2016-10-09T16:37:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/android-file-system/</loc>
+    <loc>https://pol4.dev/posts/android-file-system/</loc>
     <lastmod>2016-10-09T16:37:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C/</loc>
+    <loc>https://pol4.dev/tags/%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C/</loc>
     <lastmod>2016-10-09T16:37:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC/</loc>
+    <loc>https://pol4.dev/tags/%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC/</loc>
     <lastmod>2016-10-02T14:30:00+09:00</lastmod>
   </url><url>
-    <loc>/categories/%EC%9C%88%EB%8F%84%EC%9A%B0/</loc>
+    <loc>https://pol4.dev/categories/%EC%9C%88%EB%8F%84%EC%9A%B0/</loc>
     <lastmod>2016-10-02T14:30:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/how-to-edit-windows-context-menu/</loc>
+    <loc>https://pol4.dev/posts/how-to-edit-windows-context-menu/</loc>
     <lastmod>2016-10-02T14:30:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/android-hacking-using-msfvenom/</loc>
+    <loc>https://pol4.dev/posts/android-hacking-using-msfvenom/</loc>
     <lastmod>2016-09-25T18:39:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%B3%B4%EC%95%88/</loc>
+    <loc>https://pol4.dev/tags/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%B3%B4%EC%95%88/</loc>
     <lastmod>2016-09-25T18:39:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EB%AA%A8%EC%9D%98-%EC%B9%A8%ED%88%AC/</loc>
+    <loc>https://pol4.dev/tags/%EB%AA%A8%EC%9D%98-%EC%B9%A8%ED%88%AC/</loc>
     <lastmod>2016-09-25T18:39:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EB%AC%B4%EC%84%A0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</loc>
+    <loc>https://pol4.dev/tags/%EB%AC%B4%EC%84%A0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</loc>
     <lastmod>2016-09-11T18:30:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/wireless-standard-ieee-802-11/</loc>
+    <loc>https://pol4.dev/posts/wireless-standard-ieee-802-11/</loc>
     <lastmod>2016-09-11T18:30:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/how-to-crack-wifi-using-aircrack-ng/</loc>
+    <loc>https://pol4.dev/posts/how-to-crack-wifi-using-aircrack-ng/</loc>
     <lastmod>2016-09-10T20:46:00+09:00</lastmod>
   </url><url>
-    <loc>/posts/what-is-osi-security-architecture/</loc>
+    <loc>https://pol4.dev/posts/what-is-osi-security-architecture/</loc>
     <lastmod>2016-07-27T05:03:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88/</loc>
+    <loc>https://pol4.dev/tags/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88/</loc>
     <lastmod>2016-07-27T05:03:00+09:00</lastmod>
   </url><url>
-    <loc>/tags/ci/cd/</loc>
+    <loc>https://pol4.dev/tags/ci/cd/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://pol4.dev/search/</loc>
   </url>
 </urlset>

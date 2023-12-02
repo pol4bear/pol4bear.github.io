@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>대칭키 암호 on Pol4bear&#39;s blog</title>
-    <link>/tags/%EB%8C%80%EC%B9%AD%ED%82%A4-%EC%95%94%ED%98%B8/</link>
+    <link>https://pol4.dev/tags/%EB%8C%80%EC%B9%AD%ED%82%A4-%EC%95%94%ED%98%B8/</link>
     <description>Recent content in 대칭키 암호 on Pol4bear&#39;s blog</description>
     <image>
       <title>Pol4bear&#39;s blog</title>
-      <url>/cover.jpg</url>
-      <link>/cover.jpg</link>
+      <url>https://pol4.dev/cover.jpg</url>
+      <link>https://pol4.dev/cover.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 01 Feb 2017 23:54:00 +0900</lastBuildDate><atom:link href="/tags/%EB%8C%80%EC%B9%AD%ED%82%A4-%EC%95%94%ED%98%B8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2017 23:54:00 +0900</lastBuildDate><atom:link href="https://pol4.dev/tags/%EB%8C%80%EC%B9%AD%ED%82%A4-%EC%95%94%ED%98%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C언어로 DES 구현하기</title>
-      <link>/posts/des-implementation-in-c/</link>
+      <link>https://pol4.dev/posts/des-implementation-in-c/</link>
       <pubDate>Wed, 01 Feb 2017 23:54:00 +0900</pubDate>
       
-      <guid>/posts/des-implementation-in-c/</guid>
+      <guid>https://pol4.dev/posts/des-implementation-in-c/</guid>
       <description>C언어로 DES 알고리즘을 구현해보자</description>
     </item>
     
     <item>
       <title>Diffie-Hellman이란?</title>
-      <link>/posts/diffie-hellman/</link>
+      <link>https://pol4.dev/posts/diffie-hellman/</link>
       <pubDate>Tue, 08 Nov 2016 12:21:00 +0900</pubDate>
       
-      <guid>/posts/diffie-hellman/</guid>
+      <guid>https://pol4.dev/posts/diffie-hellman/</guid>
       <description>Diffie-Hellman에 대해 알아보자</description>
     </item>
     
     <item>
       <title>AES(Advanced Encryption Standard, 고급 암호화 표준)란?</title>
-      <link>/posts/advanced-encryption-standard/</link>
+      <link>https://pol4.dev/posts/advanced-encryption-standard/</link>
       <pubDate>Sun, 06 Nov 2016 23:26:00 +0900</pubDate>
       
-      <guid>/posts/advanced-encryption-standard/</guid>
+      <guid>https://pol4.dev/posts/advanced-encryption-standard/</guid>
       <description>AES 알고리즘에 대해 알아보자</description>
     </item>
     
     <item>
       <title>DES(Data Encryption Standard, 데이터 암호화 표준)란?</title>
-      <link>/posts/data-encryption-standard/</link>
+      <link>https://pol4.dev/posts/data-encryption-standard/</link>
       <pubDate>Tue, 01 Nov 2016 17:11:00 +0900</pubDate>
       
-      <guid>/posts/data-encryption-standard/</guid>
+      <guid>https://pol4.dev/posts/data-encryption-standard/</guid>
       <description>DES 알고리즘에 대해 알아보자</description>
     </item>
     
     <item>
       <title>암호학이란?</title>
-      <link>/posts/what-is-cryptography/</link>
+      <link>https://pol4.dev/posts/what-is-cryptography/</link>
       <pubDate>Tue, 11 Oct 2016 12:24:00 +0900</pubDate>
       
-      <guid>/posts/what-is-cryptography/</guid>
+      <guid>https://pol4.dev/posts/what-is-cryptography/</guid>
       <description>암호학 개념과 암호 알고리즘의 종류에 대해서 알아보자</description>
     </item>
     

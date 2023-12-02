@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>C on Pol4bear&#39;s blog</title>
-    <link>/categories/c/</link>
+    <link>https://pol4.dev/categories/c/</link>
     <description>Recent content in C on Pol4bear&#39;s blog</description>
     <image>
       <title>Pol4bear&#39;s blog</title>
-      <url>/cover.jpg</url>
-      <link>/cover.jpg</link>
+      <url>https://pol4.dev/cover.jpg</url>
+      <link>https://pol4.dev/cover.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 01 Feb 2017 23:54:00 +0900</lastBuildDate><atom:link href="/categories/c/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2017 23:54:00 +0900</lastBuildDate><atom:link href="https://pol4.dev/categories/c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C언어로 DES 구현하기</title>
-      <link>/posts/des-implementation-in-c/</link>
+      <link>https://pol4.dev/posts/des-implementation-in-c/</link>
       <pubDate>Wed, 01 Feb 2017 23:54:00 +0900</pubDate>
       
-      <guid>/posts/des-implementation-in-c/</guid>
+      <guid>https://pol4.dev/posts/des-implementation-in-c/</guid>
       <description>C언어로 DES 알고리즘을 구현해보자</description>
     </item>
     

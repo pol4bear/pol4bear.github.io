@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>공개키 암호 on Pol4bear&#39;s blog</title>
-    <link>/tags/%EA%B3%B5%EA%B0%9C%ED%82%A4-%EC%95%94%ED%98%B8/</link>
+    <link>https://pol4.dev/tags/%EA%B3%B5%EA%B0%9C%ED%82%A4-%EC%95%94%ED%98%B8/</link>
     <description>Recent content in 공개키 암호 on Pol4bear&#39;s blog</description>
     <image>
       <title>Pol4bear&#39;s blog</title>
-      <url>/cover.jpg</url>
-      <link>/cover.jpg</link>
+      <url>https://pol4.dev/cover.jpg</url>
+      <link>https://pol4.dev/cover.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 08 Nov 2016 11:06:00 +0900</lastBuildDate><atom:link href="/tags/%EA%B3%B5%EA%B0%9C%ED%82%A4-%EC%95%94%ED%98%B8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Nov 2016 11:06:00 +0900</lastBuildDate><atom:link href="https://pol4.dev/tags/%EA%B3%B5%EA%B0%9C%ED%82%A4-%EC%95%94%ED%98%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RSA(Rivest–Shamir–Adleman)란?</title>
-      <link>/posts/rivest-shamir-adleman/</link>
+      <link>https://pol4.dev/posts/rivest-shamir-adleman/</link>
       <pubDate>Tue, 08 Nov 2016 11:06:00 +0900</pubDate>
       
-      <guid>/posts/rivest-shamir-adleman/</guid>
+      <guid>https://pol4.dev/posts/rivest-shamir-adleman/</guid>
       <description>RSA 알고리즘에 대해 알아보자</description>
     </item>
     
     <item>
       <title>암호학이란?</title>
-      <link>/posts/what-is-cryptography/</link>
+      <link>https://pol4.dev/posts/what-is-cryptography/</link>
       <pubDate>Tue, 11 Oct 2016 12:24:00 +0900</pubDate>
       
-      <guid>/posts/what-is-cryptography/</guid>
+      <guid>https://pol4.dev/posts/what-is-cryptography/</guid>
       <description>암호학 개념과 암호 알고리즘의 종류에 대해서 알아보자</description>
     </item>
     

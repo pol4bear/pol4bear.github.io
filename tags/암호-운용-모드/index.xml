@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>암호 운용 모드 on Pol4bear&#39;s blog</title>
-    <link>/tags/%EC%95%94%ED%98%B8-%EC%9A%B4%EC%9A%A9-%EB%AA%A8%EB%93%9C/</link>
+    <link>https://pol4.dev/tags/%EC%95%94%ED%98%B8-%EC%9A%B4%EC%9A%A9-%EB%AA%A8%EB%93%9C/</link>
     <description>Recent content in 암호 운용 모드 on Pol4bear&#39;s blog</description>
     <image>
       <title>Pol4bear&#39;s blog</title>
-      <url>/cover.jpg</url>
-      <link>/cover.jpg</link>
+      <url>https://pol4.dev/cover.jpg</url>
+      <link>https://pol4.dev/cover.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 17 Oct 2016 03:02:00 +0900</lastBuildDate><atom:link href="/tags/%EC%95%94%ED%98%B8-%EC%9A%B4%EC%9A%A9-%EB%AA%A8%EB%93%9C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Oct 2016 03:02:00 +0900</lastBuildDate><atom:link href="https://pol4.dev/tags/%EC%95%94%ED%98%B8-%EC%9A%B4%EC%9A%A9-%EB%AA%A8%EB%93%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>블록 지향 저장장치를 위한 블록 암호 운용 모드 XTS-AES</title>
-      <link>/posts/block-cipher-mode-xts-aes/</link>
+      <link>https://pol4.dev/posts/block-cipher-mode-xts-aes/</link>
       <pubDate>Mon, 17 Oct 2016 03:02:00 +0900</pubDate>
       
-      <guid>/posts/block-cipher-mode-xts-aes/</guid>
+      <guid>https://pol4.dev/posts/block-cipher-mode-xts-aes/</guid>
       <description>블록 암호 운용 모드 중 하나인 XTS-AES에 대해 알아보자</description>
     </item>
     
     <item>
       <title>블록 암호 운용 모드</title>
-      <link>/posts/modes-of-block-cipher/</link>
+      <link>https://pol4.dev/posts/modes-of-block-cipher/</link>
       <pubDate>Mon, 17 Oct 2016 02:29:00 +0900</pubDate>
       
-      <guid>/posts/modes-of-block-cipher/</guid>
+      <guid>https://pol4.dev/posts/modes-of-block-cipher/</guid>
       <description>블록 암호 운용 모드의 종류에 대해 알아보자</description>
     </item>
     
