@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>리버싱 on Pol4bear&#39;s blog</title>
-    <link>https://pol4.dev/categories/%EB%A6%AC%EB%B2%84%EC%8B%B1/</link>
+    <link>https://pol4bear.github.io/categories/%EB%A6%AC%EB%B2%84%EC%8B%B1/</link>
     <description>Recent content in 리버싱 on Pol4bear&#39;s blog</description>
     <image>
       <title>Pol4bear&#39;s blog</title>
-      <url>https://pol4.dev/cover.jpg</url>
-      <link>https://pol4.dev/cover.jpg</link>
+      <url>https://pol4bear.github.io/cover.jpg</url>
+      <link>https://pol4bear.github.io/cover.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 22 Dec 2021 18:11:20 +0900</lastBuildDate><atom:link href="https://pol4.dev/categories/%EB%A6%AC%EB%B2%84%EC%8B%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Dec 2021 18:11:20 +0900</lastBuildDate><atom:link href="https://pol4bear.github.io/categories/%EB%A6%AC%EB%B2%84%EC%8B%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ARM의 주소지정 방식</title>
-      <link>https://pol4.dev/posts/addressing-modes-of-arm-architecture/</link>
+      <link>https://pol4bear.github.io/posts/addressing-modes-of-arm-architecture/</link>
       <pubDate>Wed, 22 Dec 2021 18:11:20 +0900</pubDate>
       
-      <guid>https://pol4.dev/posts/addressing-modes-of-arm-architecture/</guid>
+      <guid>https://pol4bear.github.io/posts/addressing-modes-of-arm-architecture/</guid>
       <description>ARM의 주소지정 방식</description>
     </item>
     
     <item>
       <title>MIPS의 주소지정 방식</title>
-      <link>https://pol4.dev/posts/addressing-modes-of-mips-architecture/</link>
+      <link>https://pol4bear.github.io/posts/addressing-modes-of-mips-architecture/</link>
       <pubDate>Tue, 21 Dec 2021 15:32:36 +0900</pubDate>
       
-      <guid>https://pol4.dev/posts/addressing-modes-of-mips-architecture/</guid>
+      <guid>https://pol4bear.github.io/posts/addressing-modes-of-mips-architecture/</guid>
       <description>MIPS의 주소지정 방식</description>
     </item>
     
     <item>
       <title>펌웨어 정적분석하기</title>
-      <link>https://pol4.dev/posts/reversing-embedded-device-3/</link>
+      <link>https://pol4bear.github.io/posts/reversing-embedded-device-3/</link>
       <pubDate>Mon, 20 Dec 2021 13:38:36 +0900</pubDate>
       
-      <guid>https://pol4.dev/posts/reversing-embedded-device-3/</guid>
+      <guid>https://pol4bear.github.io/posts/reversing-embedded-device-3/</guid>
       <description>임베디드 기기 역공학 개론</description>
     </item>
     
     <item>
       <title>다양한 인터페이스를 활용한 임베디드 기기 역공학</title>
-      <link>https://pol4.dev/posts/reversing-embedded-device-2/</link>
+      <link>https://pol4bear.github.io/posts/reversing-embedded-device-2/</link>
       <pubDate>Sun, 19 Dec 2021 11:12:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/posts/reversing-embedded-device-2/</guid>
+      <guid>https://pol4bear.github.io/posts/reversing-embedded-device-2/</guid>
       <description>다양한 인터페이스를 활용한 임베디드 기기 역공학</description>
     </item>
     
     <item>
       <title>임베디드 기기 역공학</title>
-      <link>https://pol4.dev/posts/reversing-embedded-device-1/</link>
+      <link>https://pol4bear.github.io/posts/reversing-embedded-device-1/</link>
       <pubDate>Sun, 19 Dec 2021 10:05:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/posts/reversing-embedded-device-1/</guid>
+      <guid>https://pol4bear.github.io/posts/reversing-embedded-device-1/</guid>
       <description>임베디드 기기 역공학</description>
     </item>
     

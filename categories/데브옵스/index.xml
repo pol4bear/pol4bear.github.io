@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>데브옵스 on Pol4bear&#39;s blog</title>
-    <link>https://pol4.dev/categories/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4/</link>
+    <link>https://pol4bear.github.io/categories/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4/</link>
     <description>Recent content in 데브옵스 on Pol4bear&#39;s blog</description>
     <image>
       <title>Pol4bear&#39;s blog</title>
-      <url>https://pol4.dev/cover.jpg</url>
-      <link>https://pol4.dev/cover.jpg</link>
+      <url>https://pol4bear.github.io/cover.jpg</url>
+      <link>https://pol4bear.github.io/cover.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 11 Feb 2021 23:39:31 +0900</lastBuildDate><atom:link href="https://pol4.dev/categories/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Feb 2021 23:39:31 +0900</lastBuildDate><atom:link href="https://pol4bear.github.io/categories/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C/C&#43;&#43; 프로젝트에 GitHub Actions 적용하기</title>
-      <link>https://pol4.dev/posts/using-github-actions-in-c-cpp-project/</link>
+      <link>https://pol4bear.github.io/posts/using-github-actions-in-c-cpp-project/</link>
       <pubDate>Thu, 11 Feb 2021 23:39:31 +0900</pubDate>
       
-      <guid>https://pol4.dev/posts/using-github-actions-in-c-cpp-project/</guid>
+      <guid>https://pol4bear.github.io/posts/using-github-actions-in-c-cpp-project/</guid>
       <description>GitHub Actions로 C/C&#43;&#43; 프로젝트에 CI/CD를 적용해보자</description>
     </item>
     
     <item>
       <title>Make로 프로그램 빌드하기</title>
-      <link>https://pol4.dev/posts/how-to-use-make/</link>
+      <link>https://pol4bear.github.io/posts/how-to-use-make/</link>
       <pubDate>Fri, 12 Jul 2019 00:15:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/posts/how-to-use-make/</guid>
+      <guid>https://pol4bear.github.io/posts/how-to-use-make/</guid>
       <description>Make로 프로그램을 빌드하는 방법에 대해 알아보자</description>
     </item>
     
     <item>
       <title>Git으로 버전 관리 시작하기</title>
-      <link>https://pol4.dev/posts/how-to-use-git/</link>
+      <link>https://pol4bear.github.io/posts/how-to-use-git/</link>
       <pubDate>Thu, 11 Jul 2019 18:33:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/posts/how-to-use-git/</guid>
+      <guid>https://pol4bear.github.io/posts/how-to-use-git/</guid>
       <description>Git으로 프로젝트 버전 관리하는 방법에 대해 알아보자</description>
     </item>
     

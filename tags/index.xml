@@ -2,409 +2,409 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Pol4bear&#39;s blog</title>
-    <link>https://pol4.dev/tags/</link>
+    <link>https://pol4bear.github.io/tags/</link>
     <description>Recent content in Tags on Pol4bear&#39;s blog</description>
     <image>
       <title>Pol4bear&#39;s blog</title>
-      <url>https://pol4.dev/cover.jpg</url>
-      <link>https://pol4.dev/cover.jpg</link>
+      <url>https://pol4bear.github.io/cover.jpg</url>
+      <link>https://pol4bear.github.io/cover.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 10 May 2023 22:24:15 +0900</lastBuildDate><atom:link href="https://pol4.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 22:24:15 +0900</lastBuildDate><atom:link href="https://pol4bear.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Onion routing</title>
-      <link>https://pol4.dev/tags/onion-routing/</link>
+      <link>https://pol4bear.github.io/tags/onion-routing/</link>
       <pubDate>Wed, 10 May 2023 22:24:15 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/onion-routing/</guid>
+      <guid>https://pol4bear.github.io/tags/onion-routing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TOR</title>
-      <link>https://pol4.dev/tags/tor/</link>
+      <link>https://pol4bear.github.io/tags/tor/</link>
       <pubDate>Wed, 10 May 2023 22:24:15 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/tor/</guid>
+      <guid>https://pol4bear.github.io/tags/tor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TCPReplay</title>
-      <link>https://pol4.dev/tags/tcpreplay/</link>
+      <link>https://pol4bear.github.io/tags/tcpreplay/</link>
       <pubDate>Sat, 25 Jun 2022 18:52:22 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/tcpreplay/</guid>
+      <guid>https://pol4bear.github.io/tags/tcpreplay/</guid>
       <description></description>
     </item>
     
     <item>
       <title>패킷 로스</title>
-      <link>https://pol4.dev/tags/%ED%8C%A8%ED%82%B7-%EB%A1%9C%EC%8A%A4/</link>
+      <link>https://pol4bear.github.io/tags/%ED%8C%A8%ED%82%B7-%EB%A1%9C%EC%8A%A4/</link>
       <pubDate>Sat, 25 Jun 2022 18:52:22 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%ED%8C%A8%ED%82%B7-%EB%A1%9C%EC%8A%A4/</guid>
+      <guid>https://pol4bear.github.io/tags/%ED%8C%A8%ED%82%B7-%EB%A1%9C%EC%8A%A4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARM</title>
-      <link>https://pol4.dev/tags/arm/</link>
+      <link>https://pol4bear.github.io/tags/arm/</link>
       <pubDate>Wed, 22 Dec 2021 18:11:20 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/arm/</guid>
+      <guid>https://pol4bear.github.io/tags/arm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>주소지정 방식</title>
-      <link>https://pol4.dev/tags/%EC%A3%BC%EC%86%8C%EC%A7%80%EC%A0%95-%EB%B0%A9%EC%8B%9D/</link>
+      <link>https://pol4bear.github.io/tags/%EC%A3%BC%EC%86%8C%EC%A7%80%EC%A0%95-%EB%B0%A9%EC%8B%9D/</link>
       <pubDate>Wed, 22 Dec 2021 18:11:20 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EC%A3%BC%EC%86%8C%EC%A7%80%EC%A0%95-%EB%B0%A9%EC%8B%9D/</guid>
+      <guid>https://pol4bear.github.io/tags/%EC%A3%BC%EC%86%8C%EC%A7%80%EC%A0%95-%EB%B0%A9%EC%8B%9D/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MIPS</title>
-      <link>https://pol4.dev/tags/mips/</link>
+      <link>https://pol4bear.github.io/tags/mips/</link>
       <pubDate>Tue, 21 Dec 2021 15:32:36 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/mips/</guid>
+      <guid>https://pol4bear.github.io/tags/mips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>임베디드 기기 역공학</title>
-      <link>https://pol4.dev/tags/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B8%B0%EA%B8%B0-%EC%97%AD%EA%B3%B5%ED%95%99/</link>
+      <link>https://pol4bear.github.io/tags/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B8%B0%EA%B8%B0-%EC%97%AD%EA%B3%B5%ED%95%99/</link>
       <pubDate>Mon, 20 Dec 2021 13:38:36 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B8%B0%EA%B8%B0-%EC%97%AD%EA%B3%B5%ED%95%99/</guid>
+      <guid>https://pol4bear.github.io/tags/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-%EA%B8%B0%EA%B8%B0-%EC%97%AD%EA%B3%B5%ED%95%99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>펌웨어 분석</title>
-      <link>https://pol4.dev/tags/%ED%8E%8C%EC%9B%A8%EC%96%B4-%EB%B6%84%EC%84%9D/</link>
+      <link>https://pol4bear.github.io/tags/%ED%8E%8C%EC%9B%A8%EC%96%B4-%EB%B6%84%EC%84%9D/</link>
       <pubDate>Mon, 20 Dec 2021 13:38:36 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%ED%8E%8C%EC%9B%A8%EC%96%B4-%EB%B6%84%EC%84%9D/</guid>
+      <guid>https://pol4bear.github.io/tags/%ED%8E%8C%EC%9B%A8%EC%96%B4-%EB%B6%84%EC%84%9D/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TCP</title>
-      <link>https://pol4.dev/tags/tcp/</link>
+      <link>https://pol4bear.github.io/tags/tcp/</link>
       <pubDate>Tue, 14 Sep 2021 21:43:04 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/tcp/</guid>
+      <guid>https://pol4bear.github.io/tags/tcp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>실험실</title>
-      <link>https://pol4.dev/tags/%EC%8B%A4%ED%97%98%EC%8B%A4/</link>
+      <link>https://pol4bear.github.io/tags/%EC%8B%A4%ED%97%98%EC%8B%A4/</link>
       <pubDate>Tue, 14 Sep 2021 21:43:04 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EC%8B%A4%ED%97%98%EC%8B%A4/</guid>
+      <guid>https://pol4bear.github.io/tags/%EC%8B%A4%ED%97%98%EC%8B%A4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>프로토콜</title>
-      <link>https://pol4.dev/tags/%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C/</link>
+      <link>https://pol4bear.github.io/tags/%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C/</link>
       <pubDate>Tue, 14 Sep 2021 21:43:04 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C/</guid>
+      <guid>https://pol4bear.github.io/tags/%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PintOS</title>
-      <link>https://pol4.dev/tags/pintos/</link>
+      <link>https://pol4bear.github.io/tags/pintos/</link>
       <pubDate>Sun, 22 Aug 2021 21:03:04 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/pintos/</guid>
+      <guid>https://pol4bear.github.io/tags/pintos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GitHub</title>
-      <link>https://pol4.dev/tags/github/</link>
+      <link>https://pol4bear.github.io/tags/github/</link>
       <pubDate>Thu, 11 Feb 2021 23:39:31 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/github/</guid>
+      <guid>https://pol4bear.github.io/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>네트워크 이론</title>
-      <link>https://pol4.dev/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9D%B4%EB%A1%A0/</link>
+      <link>https://pol4bear.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9D%B4%EB%A1%A0/</link>
       <pubDate>Wed, 08 Jul 2020 15:12:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9D%B4%EB%A1%A0/</guid>
+      <guid>https://pol4bear.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9D%B4%EB%A1%A0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>네트워크 보안</title>
-      <link>https://pol4.dev/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B3%B4%EC%95%88/</link>
+      <link>https://pol4bear.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B3%B4%EC%95%88/</link>
       <pubDate>Wed, 04 Mar 2020 21:00:22 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B3%B4%EC%95%88/</guid>
+      <guid>https://pol4bear.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B3%B4%EC%95%88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>유해사이트 차단</title>
-      <link>https://pol4.dev/tags/%EC%9C%A0%ED%95%B4%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%B0%A8%EB%8B%A8/</link>
+      <link>https://pol4bear.github.io/tags/%EC%9C%A0%ED%95%B4%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%B0%A8%EB%8B%A8/</link>
       <pubDate>Wed, 04 Mar 2020 21:00:22 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EC%9C%A0%ED%95%B4%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%B0%A8%EB%8B%A8/</guid>
+      <guid>https://pol4bear.github.io/tags/%EC%9C%A0%ED%95%B4%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%B0%A8%EB%8B%A8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>취약점</title>
-      <link>https://pol4.dev/tags/%EC%B7%A8%EC%95%BD%EC%A0%90/</link>
+      <link>https://pol4bear.github.io/tags/%EC%B7%A8%EC%95%BD%EC%A0%90/</link>
       <pubDate>Wed, 04 Mar 2020 21:00:22 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EC%B7%A8%EC%95%BD%EC%A0%90/</guid>
+      <guid>https://pol4bear.github.io/tags/%EC%B7%A8%EC%95%BD%EC%A0%90/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ESNI</title>
-      <link>https://pol4.dev/tags/esni/</link>
+      <link>https://pol4bear.github.io/tags/esni/</link>
       <pubDate>Tue, 03 Mar 2020 16:11:28 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/esni/</guid>
+      <guid>https://pol4bear.github.io/tags/esni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HackerOne</title>
-      <link>https://pol4.dev/tags/hackerone/</link>
+      <link>https://pol4bear.github.io/tags/hackerone/</link>
       <pubDate>Mon, 10 Feb 2020 14:03:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/hackerone/</guid>
+      <guid>https://pol4bear.github.io/tags/hackerone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>버그 바운티</title>
-      <link>https://pol4.dev/tags/%EB%B2%84%EA%B7%B8-%EB%B0%94%EC%9A%B4%ED%8B%B0/</link>
+      <link>https://pol4bear.github.io/tags/%EB%B2%84%EA%B7%B8-%EB%B0%94%EC%9A%B4%ED%8B%B0/</link>
       <pubDate>Mon, 10 Feb 2020 14:03:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EB%B2%84%EA%B7%B8-%EB%B0%94%EC%9A%B4%ED%8B%B0/</guid>
+      <guid>https://pol4bear.github.io/tags/%EB%B2%84%EA%B7%B8-%EB%B0%94%EC%9A%B4%ED%8B%B0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DoH</title>
-      <link>https://pol4.dev/tags/doh/</link>
+      <link>https://pol4bear.github.io/tags/doh/</link>
       <pubDate>Thu, 14 Nov 2019 06:40:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/doh/</guid>
+      <guid>https://pol4bear.github.io/tags/doh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>리눅스 커널</title>
-      <link>https://pol4.dev/tags/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%84%90/</link>
+      <link>https://pol4bear.github.io/tags/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%84%90/</link>
       <pubDate>Sat, 20 Jul 2019 18:05:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%84%90/</guid>
+      <guid>https://pol4bear.github.io/tags/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%84%90/</guid>
       <description></description>
     </item>
     
     <item>
       <title>어셈블러</title>
-      <link>https://pol4.dev/tags/%EC%96%B4%EC%85%88%EB%B8%94%EB%9F%AC/</link>
+      <link>https://pol4bear.github.io/tags/%EC%96%B4%EC%85%88%EB%B8%94%EB%9F%AC/</link>
       <pubDate>Sat, 13 Jul 2019 09:37:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EC%96%B4%EC%85%88%EB%B8%94%EB%9F%AC/</guid>
+      <guid>https://pol4bear.github.io/tags/%EC%96%B4%EC%85%88%EB%B8%94%EB%9F%AC/</guid>
       <description></description>
     </item>
     
     <item>
       <title>컴파일러</title>
-      <link>https://pol4.dev/tags/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/</link>
+      <link>https://pol4bear.github.io/tags/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/</link>
       <pubDate>Sat, 13 Jul 2019 09:37:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/</guid>
+      <guid>https://pol4bear.github.io/tags/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/</guid>
       <description></description>
     </item>
     
     <item>
       <title>컴퓨터 구조</title>
-      <link>https://pol4.dev/tags/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0/</link>
+      <link>https://pol4bear.github.io/tags/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0/</link>
       <pubDate>Sat, 13 Jul 2019 07:50:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0/</guid>
+      <guid>https://pol4bear.github.io/tags/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>프로세서</title>
-      <link>https://pol4.dev/tags/%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C/</link>
+      <link>https://pol4bear.github.io/tags/%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C/</link>
       <pubDate>Fri, 12 Jul 2019 07:52:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C/</guid>
+      <guid>https://pol4bear.github.io/tags/%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Make</title>
-      <link>https://pol4.dev/tags/make/</link>
+      <link>https://pol4bear.github.io/tags/make/</link>
       <pubDate>Fri, 12 Jul 2019 00:15:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/make/</guid>
+      <guid>https://pol4bear.github.io/tags/make/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>https://pol4.dev/tags/git/</link>
+      <link>https://pol4bear.github.io/tags/git/</link>
       <pubDate>Thu, 11 Jul 2019 18:33:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/git/</guid>
+      <guid>https://pol4bear.github.io/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>대칭키 암호</title>
-      <link>https://pol4.dev/tags/%EB%8C%80%EC%B9%AD%ED%82%A4-%EC%95%94%ED%98%B8/</link>
+      <link>https://pol4bear.github.io/tags/%EB%8C%80%EC%B9%AD%ED%82%A4-%EC%95%94%ED%98%B8/</link>
       <pubDate>Wed, 01 Feb 2017 23:54:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EB%8C%80%EC%B9%AD%ED%82%A4-%EC%95%94%ED%98%B8/</guid>
+      <guid>https://pol4bear.github.io/tags/%EB%8C%80%EC%B9%AD%ED%82%A4-%EC%95%94%ED%98%B8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>블록 암호</title>
-      <link>https://pol4.dev/tags/%EB%B8%94%EB%A1%9D-%EC%95%94%ED%98%B8/</link>
+      <link>https://pol4bear.github.io/tags/%EB%B8%94%EB%A1%9D-%EC%95%94%ED%98%B8/</link>
       <pubDate>Wed, 01 Feb 2017 23:54:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EB%B8%94%EB%A1%9D-%EC%95%94%ED%98%B8/</guid>
+      <guid>https://pol4bear.github.io/tags/%EB%B8%94%EB%A1%9D-%EC%95%94%ED%98%B8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>메모리</title>
-      <link>https://pol4.dev/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC/</link>
+      <link>https://pol4bear.github.io/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC/</link>
       <pubDate>Wed, 16 Nov 2016 10:47:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC/</guid>
+      <guid>https://pol4bear.github.io/tags/%EB%A9%94%EB%AA%A8%EB%A6%AC/</guid>
       <description></description>
     </item>
     
     <item>
       <title>키 교환</title>
-      <link>https://pol4.dev/tags/%ED%82%A4-%EA%B5%90%ED%99%98/</link>
+      <link>https://pol4bear.github.io/tags/%ED%82%A4-%EA%B5%90%ED%99%98/</link>
       <pubDate>Tue, 08 Nov 2016 12:21:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%ED%82%A4-%EA%B5%90%ED%99%98/</guid>
+      <guid>https://pol4bear.github.io/tags/%ED%82%A4-%EA%B5%90%ED%99%98/</guid>
       <description></description>
     </item>
     
     <item>
       <title>공개키 암호</title>
-      <link>https://pol4.dev/tags/%EA%B3%B5%EA%B0%9C%ED%82%A4-%EC%95%94%ED%98%B8/</link>
+      <link>https://pol4bear.github.io/tags/%EA%B3%B5%EA%B0%9C%ED%82%A4-%EC%95%94%ED%98%B8/</link>
       <pubDate>Tue, 08 Nov 2016 11:06:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EA%B3%B5%EA%B0%9C%ED%82%A4-%EC%95%94%ED%98%B8/</guid>
+      <guid>https://pol4bear.github.io/tags/%EA%B3%B5%EA%B0%9C%ED%82%A4-%EC%95%94%ED%98%B8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>암호 운용 모드</title>
-      <link>https://pol4.dev/tags/%EC%95%94%ED%98%B8-%EC%9A%B4%EC%9A%A9-%EB%AA%A8%EB%93%9C/</link>
+      <link>https://pol4bear.github.io/tags/%EC%95%94%ED%98%B8-%EC%9A%B4%EC%9A%A9-%EB%AA%A8%EB%93%9C/</link>
       <pubDate>Mon, 17 Oct 2016 03:02:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EC%95%94%ED%98%B8-%EC%9A%B4%EC%9A%A9-%EB%AA%A8%EB%93%9C/</guid>
+      <guid>https://pol4bear.github.io/tags/%EC%95%94%ED%98%B8-%EC%9A%B4%EC%9A%A9-%EB%AA%A8%EB%93%9C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>해킹</title>
-      <link>https://pol4.dev/tags/%ED%95%B4%ED%82%B9/</link>
+      <link>https://pol4bear.github.io/tags/%ED%95%B4%ED%82%B9/</link>
       <pubDate>Mon, 17 Oct 2016 01:51:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%ED%95%B4%ED%82%B9/</guid>
+      <guid>https://pol4bear.github.io/tags/%ED%95%B4%ED%82%B9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>안드로이드</title>
-      <link>https://pol4.dev/tags/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C/</link>
+      <link>https://pol4bear.github.io/tags/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C/</link>
       <pubDate>Sun, 09 Oct 2016 16:37:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C/</guid>
+      <guid>https://pol4bear.github.io/tags/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>파일시스템</title>
-      <link>https://pol4.dev/tags/%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C/</link>
+      <link>https://pol4bear.github.io/tags/%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C/</link>
       <pubDate>Sun, 09 Oct 2016 16:37:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C/</guid>
+      <guid>https://pol4bear.github.io/tags/%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>레지스트리</title>
-      <link>https://pol4.dev/tags/%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC/</link>
+      <link>https://pol4bear.github.io/tags/%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC/</link>
       <pubDate>Sun, 02 Oct 2016 14:30:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC/</guid>
+      <guid>https://pol4bear.github.io/tags/%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC/</guid>
       <description></description>
     </item>
     
     <item>
       <title>모바일 보안</title>
-      <link>https://pol4.dev/tags/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%B3%B4%EC%95%88/</link>
+      <link>https://pol4bear.github.io/tags/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%B3%B4%EC%95%88/</link>
       <pubDate>Sun, 25 Sep 2016 18:39:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%B3%B4%EC%95%88/</guid>
+      <guid>https://pol4bear.github.io/tags/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%B3%B4%EC%95%88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>모의 침투</title>
-      <link>https://pol4.dev/tags/%EB%AA%A8%EC%9D%98-%EC%B9%A8%ED%88%AC/</link>
+      <link>https://pol4bear.github.io/tags/%EB%AA%A8%EC%9D%98-%EC%B9%A8%ED%88%AC/</link>
       <pubDate>Sun, 25 Sep 2016 18:39:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EB%AA%A8%EC%9D%98-%EC%B9%A8%ED%88%AC/</guid>
+      <guid>https://pol4bear.github.io/tags/%EB%AA%A8%EC%9D%98-%EC%B9%A8%ED%88%AC/</guid>
       <description></description>
     </item>
     
     <item>
       <title>무선 네트워크</title>
-      <link>https://pol4.dev/tags/%EB%AC%B4%EC%84%A0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</link>
+      <link>https://pol4bear.github.io/tags/%EB%AC%B4%EC%84%A0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</link>
       <pubDate>Sun, 11 Sep 2016 18:30:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EB%AC%B4%EC%84%A0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</guid>
+      <guid>https://pol4bear.github.io/tags/%EB%AC%B4%EC%84%A0-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</guid>
       <description></description>
     </item>
     
     <item>
       <title>정보보안</title>
-      <link>https://pol4.dev/tags/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88/</link>
+      <link>https://pol4bear.github.io/tags/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88/</link>
       <pubDate>Wed, 27 Jul 2016 05:03:00 +0900</pubDate>
       
-      <guid>https://pol4.dev/tags/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88/</guid>
+      <guid>https://pol4bear.github.io/tags/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CI/CD</title>
-      <link>https://pol4.dev/tags/ci/cd/</link>
+      <link>https://pol4bear.github.io/tags/ci/cd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pol4.dev/tags/ci/cd/</guid>
+      <guid>https://pol4bear.github.io/tags/ci/cd/</guid>
       <description></description>
     </item>
     

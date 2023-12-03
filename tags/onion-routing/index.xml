@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Onion routing on Pol4bear&#39;s blog</title>
-    <link>https://pol4.dev/tags/onion-routing/</link>
+    <link>https://pol4bear.github.io/tags/onion-routing/</link>
     <description>Recent content in Onion routing on Pol4bear&#39;s blog</description>
     <image>
       <title>Pol4bear&#39;s blog</title>
-      <url>https://pol4.dev/cover.jpg</url>
-      <link>https://pol4.dev/cover.jpg</link>
+      <url>https://pol4bear.github.io/cover.jpg</url>
+      <link>https://pol4bear.github.io/cover.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 10 May 2023 22:24:15 +0900</lastBuildDate><atom:link href="https://pol4.dev/tags/onion-routing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 22:24:15 +0900</lastBuildDate><atom:link href="https://pol4bear.github.io/tags/onion-routing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>토어 서버 사용기</title>
-      <link>https://pol4.dev/posts/tor-setup-basic/</link>
+      <link>https://pol4bear.github.io/posts/tor-setup-basic/</link>
       <pubDate>Wed, 10 May 2023 22:24:15 +0900</pubDate>
       
-      <guid>https://pol4.dev/posts/tor-setup-basic/</guid>
+      <guid>https://pol4bear.github.io/posts/tor-setup-basic/</guid>
       <description>내 홈페이지를 토어 네트워크에 돌려보자</description>
     </item>
     
