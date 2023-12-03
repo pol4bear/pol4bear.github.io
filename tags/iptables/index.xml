@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IPTables on Pol4bear&#39;s blog</title>
+    <link>https://pol4bear.github.io/tags/iptables/</link>
+    <description>Recent content in IPTables on Pol4bear&#39;s blog</description>
+    <image>
+      <title>Pol4bear&#39;s blog</title>
+      <url>https://pol4bear.github.io/cover.jpg</url>
+      <link>https://pol4bear.github.io/cover.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sat, 02 Dec 2023 23:38:54 +0900</lastBuildDate><atom:link href="https://pol4bear.github.io/tags/iptables/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>리눅스 브릿지 환경에서 IPTables 룰 적용하는 법</title>
+      <link>https://pol4bear.github.io/posts/iptables-in-linux-birdge/</link>
+      <pubDate>Sat, 02 Dec 2023 23:38:54 +0900</pubDate>
+      
+      <guid>https://pol4bear.github.io/posts/iptables-in-linux-birdge/</guid>
+      <description>개요 Proxmox VE에 네트워크 공격 탐지를 위해 Suricata(IDS, 192.168.50.107)를 올린 후 IPTables에 아래 룰을 등록해 네트워크 트래픽 필터링을 시도 # Proxy↔Anywhere iptables -t mangle -A PREROUTING -s 192.168.50.100 -j TEE --gateway 192.168.50.107 iptables -t mangle -A PREROUTING -d 192.168.50.100 -j TEE --gateway 192.168.50.107 # Web Server↔Anywhere iptables -t mangle -A PREROUTING -s 192.168.50.101 -j TEE --gateway 192.168.50.107 iptables -t mangle -A PREROUTING -d 192.168.50.101 -j TEE --gateway 192.168.50.107 # NAS Server↔Anywhere iptables -t mangle -A PREROUTING -s 192.</description>
+    </item>
+    
+  </channel>
+</rss>

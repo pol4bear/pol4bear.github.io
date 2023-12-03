@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Thu, 14 Nov 2019 06:40:00 +0900</lastBuildDate><atom:link href="https://pol4bear.github.io/categories/%EB%A6%AC%EB%88%85%EC%8A%A4/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Dec 2023 23:38:54 +0900</lastBuildDate><atom:link href="https://pol4bear.github.io/categories/%EB%A6%AC%EB%88%85%EC%8A%A4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>리눅스 브릿지 환경에서 IPTables 룰 적용하는 법</title>
+      <link>https://pol4bear.github.io/posts/iptables-in-linux-birdge/</link>
+      <pubDate>Sat, 02 Dec 2023 23:38:54 +0900</pubDate>
+      
+      <guid>https://pol4bear.github.io/posts/iptables-in-linux-birdge/</guid>
+      <description>개요 Proxmox VE에 네트워크 공격 탐지를 위해 Suricata(IDS, 192.168.50.107)를 올린 후 IPTables에 아래 룰을 등록해 네트워크 트래픽 필터링을 시도 # Proxy↔Anywhere iptables -t mangle -A PREROUTING -s 192.168.50.100 -j TEE --gateway 192.168.50.107 iptables -t mangle -A PREROUTING -d 192.168.50.100 -j TEE --gateway 192.168.50.107 # Web Server↔Anywhere iptables -t mangle -A PREROUTING -s 192.168.50.101 -j TEE --gateway 192.168.50.107 iptables -t mangle -A PREROUTING -d 192.168.50.101 -j TEE --gateway 192.168.50.107 # NAS Server↔Anywhere iptables -t mangle -A PREROUTING -s 192.</description>
+    </item>
+    
+    <item>
+      <title>메일 서버 설치하기</title>
+      <link>https://pol4bear.github.io/posts/how-to-install-own-mail-server/</link>
+      <pubDate>Sat, 25 Nov 2023 15:15:59 +0900</pubDate>
+      
+      <guid>https://pol4bear.github.io/posts/how-to-install-own-mail-server/</guid>
+      <description>Ubuntu 22.04 LTS에 Dovecot &#43; Postfix &#43; OpenLDAP 메일 서버 설치하기(feat. SpamAssassing, OpenDKIM, Roundcube)</description>
+    </item>
+    
     <item>
       <title>DoH(DNS over HTTPS) 서버 설치하기</title>
       <link>https://pol4bear.github.io/posts/how-to-setup-dns-over-https/</link>
