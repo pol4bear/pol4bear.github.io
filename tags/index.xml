@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 02 Dec 2023 23:38:54 +0900</lastBuildDate><atom:link href="https://pol4bear.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Dec 2023 23:44:43 +0900</lastBuildDate><atom:link href="https://pol4bear.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>이더넷</title>
+      <link>https://pol4bear.github.io/tags/%EC%9D%B4%EB%8D%94%EB%84%B7/</link>
+      <pubDate>Sat, 16 Dec 2023 23:44:43 +0900</pubDate>
+      
+      <guid>https://pol4bear.github.io/tags/%EC%9D%B4%EB%8D%94%EB%84%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>패킷 분석</title>
+      <link>https://pol4bear.github.io/tags/%ED%8C%A8%ED%82%B7-%EB%B6%84%EC%84%9D/</link>
+      <pubDate>Sat, 16 Dec 2023 23:44:43 +0900</pubDate>
+      
+      <guid>https://pol4bear.github.io/tags/%ED%8C%A8%ED%82%B7-%EB%B6%84%EC%84%9D/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>IPTables</title>
       <link>https://pol4bear.github.io/tags/iptables/</link>

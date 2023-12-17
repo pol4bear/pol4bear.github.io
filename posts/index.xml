@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 02 Dec 2023 23:38:54 +0900</lastBuildDate><atom:link href="https://pol4bear.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Dec 2023 23:44:43 +0900</lastBuildDate><atom:link href="https://pol4bear.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>이더넷 - OUI(Organization Unit Identifier)</title>
+      <link>https://pol4bear.github.io/posts/what-is-oui/</link>
+      <pubDate>Sat, 16 Dec 2023 23:44:43 +0900</pubDate>
+      
+      <guid>https://pol4bear.github.io/posts/what-is-oui/</guid>
+      <description>MAC 주소로 제조사를 알아내는 방법</description>
+    </item>
+    
     <item>
       <title>리눅스 브릿지 환경에서 IPTables 룰 적용하는 법</title>
       <link>https://pol4bear.github.io/posts/iptables-in-linux-birdge/</link>
